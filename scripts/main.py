@@ -105,7 +105,7 @@ def run_movie_pipeline():
     create_search_model()
     pipeline = create_search_pipeline("Movie Pipeline")
     pipeline.should_save_images = False
-    process_movie("../test_video2.mp4", "../output_videos/test_video2.mp4")
+    process_movie("../project_video.mp4", "../output_videos/project_video.mp4")
 
 def process_movie(input_path, output_path):
     clip = VideoFileClip(input_path)

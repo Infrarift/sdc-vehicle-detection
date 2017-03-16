@@ -51,7 +51,7 @@ class Detect(Layer):
         return (int(self.lerp(top[0], bottom[0], 0.5)) + self.x_offset, int(self.lerp(top[1], bottom[1], 0.5) + self.y_offset))
 
     def register_car_at_point(self, image, center_point, confidence, id, width):
-        if confidence > 0.5:
+        if confidence > 0.35:
             self.draw_cross_at_point(image, center_point, confidence, id)
             self.draw_rect_at_point(image, center_point, confidence, id, width)
         pass

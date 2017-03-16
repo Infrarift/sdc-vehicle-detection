@@ -58,6 +58,13 @@ class CarPoint(object):
             self.confidence = 1
 
     def decay_confidence(self, value):
+
+        if self.confidence >= 0.75:
+            value -= 0.025
+
+        if self.confidence >= 0.5:
+            value -= 0.05
+
         self.confidence -= value
         if self.confidence <= 0:
             self.confidence = 0
