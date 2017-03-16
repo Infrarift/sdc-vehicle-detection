@@ -6,12 +6,17 @@ import os
 
 class Normalize(object):
 
+    scaler = None
+
     def normalize_data(self, featuremodel):
         features = np.vstack(featuremodel.features_raw).astype(np.float64)
-        scaler = StandardScaler().fit(features)
-        scaled_features = scaler.transform(features)
+        scaled_features = self.scaler.transform(features)
         featuremodel.features_scaled = scaled_features
         return scaled_features
+
+    def fit_scaler(self, featuremodel):
+        features = np.vstack(featuremodel.features_raw).astype(np.float64)
+        self.scaler = StandardScaler().fit(features)
 
     def visualize(self, images, output_path, features, scaled_features):
         if not os.path.exists(output_path):
@@ -32,3 +37,4 @@ class Normalize(object):
             fig.tight_layout()
             plt.savefig(output_path + "plot{0}.png".format(i))
             plt.clf()
+            plt.close()

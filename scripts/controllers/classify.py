@@ -4,12 +4,13 @@ from sklearn.svm import LinearSVC
 class Classify(object):
 
     clf = None
+    normalizer = None
 
     def __init__(self):
         pass
 
     def classify(self, features, labels):
-        self.clf = LinearSVC()
+        self.clf = LinearSVC(max_iter=1000, C=2.0)
         self.clf.fit(features, labels)
 
     def predict(self, features):

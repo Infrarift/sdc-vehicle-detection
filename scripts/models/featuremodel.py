@@ -2,13 +2,15 @@ from models.model import Model
 import numpy as np
 
 class FeatureModel(Model):
-
-    features_raw = []
-    features_scaled = None
-    labels = []
-    current_feature = None
-
     def __init__(self):
+        self.features_raw = []
+        self.features_scaled = None
+        self.labels = []
+        self.current_feature = None
+        self.positive_boxes = None
+        self.heat_map = None
+        self.crop_offset = None
+        self.state_model = None
         pass
 
     def clear_feature_vector(self):

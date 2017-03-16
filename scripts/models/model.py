@@ -1,2 +1,4 @@
 class Model(object):
-    current_image_id = 0
+
+    def __init__(self):
+        self.current_image_id = 0

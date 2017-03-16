@@ -13,17 +13,19 @@ class ColorHistogram(Layer):
 
         image = cv2.cvtColor(image_input, cv2.COLOR_BGR2HSV)
 
-        hist_0 = np.histogram(image[:, :, 0], bins=16, range=(0, 256))
-        hist_1 = np.histogram(image[:, :, 1], bins=16, range=(0, 256))
-        hist_2 = np.histogram(image[:, :, 2], bins=16, range=(0, 256))
+        hist_0 = np.histogram(image[:, :, 0], bins=32, range=(0, 256))
+        hist_1 = np.histogram(image[:, :, 1], bins=32, range=(0, 256))
+        hist_2 = np.histogram(image[:, :, 2], bins=32, range=(0, 256))
 
         self.visualize(hist_0, hist_1, hist_2, output_path, featuremodel.current_image_id,
                        h1_name="Feature 1",
                        h2_name="Feature 2",
                        h3_name="Feature 3")
 
+        featuremodel.add_to_current_feature(hist_0[0])
         featuremodel.add_to_current_feature(hist_1[0])
-        return image_input
+        featuremodel.add_to_current_feature(hist_2[0])
+        return image_input, image_input
 
     def visualize(self, hist_0, hist_1, hist_2, output_path, id,
                   h1_name = "Feature 1",
@@ -44,8 +46,10 @@ class ColorHistogram(Layer):
         self.plot_graph(bin_centers, h3_name, hist_2, 133)
         plt.title(h3_name)
 
-        plt.savefig(output_path + "plot{0}.png".format(id))
-        plt.clf()
+        if self.should_save:
+            plt.savefig(output_path + "plot{0}.png".format(id))
+            plt.clf()
+            plt.close()
 
     def plot_graph(self, bin_centers, h_name, hist, subplot_id):
         plt.subplot(subplot_id)

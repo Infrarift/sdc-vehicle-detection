@@ -1,18 +1,20 @@
 from cv2 import imwrite
 import os
 
+import cv2
+
+
 class Pipeline(object):
 
-    layers = []
-    dir_path = ""
-    current_image_id = 0
-    output_step = 1
-    max_save_images = 25
-    should_save_images = True
-
     def __init__(self, name = "Pipeline", output_dir = "../output_images", output_step = 1):
+        self.name = name
         self.dir_path = output_dir + "/" + name + "/"
         self.output_step = output_step
+        self.layers = []
+        self.current_image_id = 0
+        self.max_save_images = 25
+        self.should_save_images = True
+        self.should_convert_to_BGR = False
 
     def add_layer(self, layer):
         layer.id = len(self.layers)
@@ -21,16 +23,20 @@ class Pipeline(object):
     def process(self, image, model):
 
         self.increment_id(model)
-        print("Processing ", self.current_image_id)
+        #print("{0} Processing {1}".format(self.name, self.current_image_id))
+        if self.should_convert_to_BGR:
+            image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
         output_image = image
 
         for layer in self.layers:
             self.set_layer_saving(layer)
-            output_image = layer.process(output_image, image, model, self.output_path_of_layer(layer))
+            output_image, draw_image = layer.process(output_image, image, model, self.output_path_of_layer(layer))
             if layer.override_original:
                 image = output_image
-            self.save_image(output_image, layer)
+            self.save_image(draw_image, layer)
 
+        if self.should_convert_to_BGR:
+            output_image = cv2.cvtColor(output_image, cv2.COLOR_BGR2RGB)
         return output_image
 
     def set_layer_saving(self, layer):

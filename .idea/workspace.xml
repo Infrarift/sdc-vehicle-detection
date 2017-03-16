@@ -2,18 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815a69da-6cbe-4c01-83fd-6ac585d557ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/controllers/normalize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/colorhistogram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/combine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/hog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/models/featuremodel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/models/model.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/model.py" afterPath="$PROJECT_DIR$/scripts/controllers/Classify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/FeaturePipeline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/crop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/detect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/heatmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/identify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/layers/windows.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/models/searchmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/models/statemodel.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scripts/controllers/Classify.py" afterPath="$PROJECT_DIR$/scripts/controllers/classify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer0_Spatial Bin/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot1.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot10.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot11.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot12.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot13.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot14.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot15.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot16.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot17.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot18.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot19.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot2.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot20.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot21.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot22.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot23.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot23.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot24.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot3.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot4.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot5.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot6.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot7.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot8.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot9.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer1_Color Histogram/plot9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer2_HOG/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/Layer3_Combine/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot0.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot1.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot10.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot11.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot12.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot13.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot14.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot15.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot16.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot17.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot18.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot19.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot2.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot20.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot21.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot22.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot23.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot23.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot24.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot3.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot4.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot5.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot6.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot7.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot8.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot9.png" afterPath="$PROJECT_DIR$/output_images/Test Pipeline/LayerX_Normalize/plot9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/controllers/normalize.py" afterPath="$PROJECT_DIR$/scripts/controllers/normalize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/colorhistogram.py" afterPath="$PROJECT_DIR$/scripts/layers/colorhistogram.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/combine.py" afterPath="$PROJECT_DIR$/scripts/layers/combine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/hog.py" afterPath="$PROJECT_DIR$/scripts/layers/hog.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/layer.py" afterPath="$PROJECT_DIR$/scripts/layers/layer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/spatialbin.py" afterPath="$PROJECT_DIR$/scripts/layers/spatialbin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/main.py" afterPath="$PROJECT_DIR$/scripts/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/models/featuremodel.py" afterPath="$PROJECT_DIR$/scripts/models/featuremodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/models/model.py" afterPath="$PROJECT_DIR$/scripts/models/model.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/pipeline.py" afterPath="$PROJECT_DIR$/scripts/pipeline.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/trainer.py" afterPath="$PROJECT_DIR$/scripts/trainer.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,35 +182,49 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="1065">
+              <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="41" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/trainer.py">
+      <file leaf-file-name="detect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/layers/detect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Classify.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/controllers/Classify.py">
+      <file leaf-file-name="windows.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/layers/windows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="175">
+              <caret line="69" column="85" lean-forward="false" selection-start-line="69" selection-start-column="85" selection-end-line="69" selection-end-column="85" />
               <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="statemodel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/models/statemodel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,44 +233,10 @@
       <file leaf-file-name="pipeline.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/pipeline.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="53" selection-end-column="38" />
+            <state relative-caret-position="272">
+              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/layers/layer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colorhistogram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/layers/colorhistogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hog.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/layers/hog.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,8 +245,8 @@
       <file leaf-file-name="featuremodel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="338">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -120,21 +254,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="combine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/layers/combine.py">
+      <file leaf-file-name="crop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/layers/crop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="374">
+              <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="normalize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/controllers/normalize.py">
+      <file leaf-file-name="searchmodel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/models/searchmodel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heatmap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/layers/heatmap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -154,6 +298,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>model</find>
+      <find>add</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,19 +308,29 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scripts/layers/layer.py" />
         <option value="$PROJECT_DIR$/scripts/model.py" />
-        <option value="$PROJECT_DIR$/scripts/trainer.py" />
-        <option value="$PROJECT_DIR$/scripts/layers/spatialbin.py" />
         <option value="$PROJECT_DIR$/scripts/models/hog.py" />
-        <option value="$PROJECT_DIR$/scripts/pipeline.py" />
-        <option value="$PROJECT_DIR$/scripts/layers/combine.py" />
-        <option value="$PROJECT_DIR$/scripts/controllers/normalize.py" />
-        <option value="$PROJECT_DIR$/scripts/layers/colorhistogram.py" />
-        <option value="$PROJECT_DIR$/scripts/layers/hog.py" />
-        <option value="$PROJECT_DIR$/scripts/models/featuremodel.py" />
         <option value="$PROJECT_DIR$/scripts/controllers/Classify.py" />
+        <option value="$PROJECT_DIR$/scripts/controllers/normalize.py" />
+        <option value="$PROJECT_DIR$/scripts/FeaturePipeline.py" />
+        <option value="$PROJECT_DIR$/scripts/models/model.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/combine.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/layer.py" />
+        <option value="$PROJECT_DIR$/scripts/trainer.py" />
+        <option value="$PROJECT_DIR$/scripts/controllers/classify.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/spatialbin.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/colorhistogram.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/crop.py" />
+        <option value="$PROJECT_DIR$/scripts/pipeline.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/hog.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/identify.py" />
+        <option value="$PROJECT_DIR$/scripts/models/featuremodel.py" />
+        <option value="$PROJECT_DIR$/scripts/models/searchmodel.py" />
+        <option value="$PROJECT_DIR$/scripts/models/statemodel.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/detect.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/windows.py" />
         <option value="$PROJECT_DIR$/scripts/main.py" />
+        <option value="$PROJECT_DIR$/scripts/layers/heatmap.py" />
       </list>
     </option>
   </component>
@@ -290,6 +446,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="pip&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -478,7 +635,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -515,97 +672,69 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/models/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/layers/spatialbin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/layers/layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/layers/combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/layers/hog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/controllers/normalize.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/spatialbin.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/pipeline.py">
+    <entry file="file://$PROJECT_DIR$/scripts/controllers/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="53" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/controllers/Classify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="408">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
@@ -614,8 +743,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/layers/colorhistogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/hog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/FeaturePipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/identify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="53" column="28" lean-forward="false" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="69" column="85" lean-forward="false" selection-start-line="69" selection-start-column="85" selection-end-line="69" selection-end-column="85" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -624,10 +803,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="1065">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="123" selection-end-column="41" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/crop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/searchmodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/statemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/heatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

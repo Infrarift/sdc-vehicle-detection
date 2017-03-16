@@ -10,5 +10,5 @@ class Combine(Layer):
     def process(self, image_input, image_original, featuremodel, output_path):
         featuremodel.add_current_feature_to_vectors()
         featuremodel.clear_current_feature()
-        return image_input
+        return image_input, image_input
 
