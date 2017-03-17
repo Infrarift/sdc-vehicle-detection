@@ -2,132 +2,132 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815a69da-6cbe-4c01-83fd-6ac585d557ad" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_7.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_11.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_19.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_5.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_videos/project_video.mp4" afterPath="$PROJECT_DIR$/output_videos/project_video.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_videos/test_video2.mp4" afterPath="$PROJECT_DIR$/output_videos/test_video2.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/detect.py" afterPath="$PROJECT_DIR$/scripts/layers/detect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/main.py" afterPath="$PROJECT_DIR$/scripts/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_videos/test_video2.mp4" afterPath="$PROJECT_DIR$/output_videos/test_video2.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/layers/detect.py" afterPath="$PROJECT_DIR$/scripts/layers/detect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_23.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_videos/project_video.mp4" afterPath="$PROJECT_DIR$/output_videos/project_video.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_4.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_13.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/models/statemodel.py" afterPath="$PROJECT_DIR$/scripts/models/statemodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_15.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_19.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_14.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_20.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_3.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_16.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_6.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_10.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_21.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_18.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_12.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_9.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_22.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_11.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_2.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_24.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer0_Crop/image_24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_1.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_7.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_5.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer3_Heatmap/image_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_13.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer4_Detect/image_13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_17.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer2_Identify/image_8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_8.jpg" afterPath="$PROJECT_DIR$/output_images/Movie Pipeline/Layer1_Windows/image_8.jpg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -145,8 +145,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+            <state relative-caret-position="612">
+              <caret line="114" column="37" lean-forward="false" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -157,7 +157,7 @@
       <file leaf-file-name="detect.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/layers/detect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
+            <state relative-caret-position="1734">
               <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -169,7 +169,7 @@
       <file leaf-file-name="windows.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/layers/windows.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="1173">
               <caret line="69" column="85" lean-forward="false" selection-start-line="69" selection-start-column="85" selection-end-line="69" selection-end-column="85" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -181,7 +181,7 @@
       <file leaf-file-name="statemodel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/models/statemodel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="1105">
               <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -205,7 +205,7 @@
       <file leaf-file-name="featuremodel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="340">
               <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -319,7 +319,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -402,6 +401,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,26 +595,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -627,6 +627,92 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/detect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/windows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="85" lean-forward="false" selection-start-line="69" selection-start-column="85" selection-end-line="69" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/statemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/crop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/models/searchmodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/layers/heatmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -677,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -759,7 +844,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/models/featuremodel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -789,7 +874,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/models/statemodel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="1105">
           <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -799,7 +884,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/layers/windows.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="1173">
           <caret line="69" column="85" lean-forward="false" selection-start-line="69" selection-start-column="85" selection-end-line="69" selection-end-column="85" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -809,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/layers/detect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="1734">
           <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -819,8 +904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+        <state relative-caret-position="612">
+          <caret line="114" column="37" lean-forward="false" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
